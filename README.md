@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Joseph Ng
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A movie database application was built using an API to get information regarding films.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://josephng123.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX is used to refresh a page without physically having to reload the browser.
+2. The readable response that can be viewed on a browser's console is called JSON.
+3. API keys connect a program with a website remotely to fetch data that appears on the site.
